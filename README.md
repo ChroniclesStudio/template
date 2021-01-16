@@ -5,7 +5,7 @@
 
 > \#
 
-中文文档 | [English Documentation](https://github.com/ChroniclesStudio/Money-Honour/blob/master/README-en.md)
+中文文档 | [English Documentation](#)
 
 ---
 
