@@ -30,6 +30,7 @@ python2 src/process_dialogs.py
 python2 src/process_global_variables_unused.py
 python2 src/process_postfx.py
 rm -rf src/*.pyc
+rm -rf ./*.py
 echo .
 echo ______________________________
 echo .
