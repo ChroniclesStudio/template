@@ -30,7 +30,6 @@ python src/process_global_variables_unused.py
 python src/process_postfx.py
 
 ::del src/*.pyc
-::del ./*.py
 
 echo.
 echo ______________________________
