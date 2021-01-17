@@ -6,7 +6,7 @@
 
 > \#
 
-[中文文档](#) | English Documentation
+[中文文档](./README.md) | English Documentation
 
 ---
 
